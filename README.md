@@ -5,7 +5,7 @@
 [Link to slides](https://docs.google.com/presentation/d/19HFM1DBStHPwC9owhuijV6beV-owK-OVnQuwqp1XLGA/edit?usp=sharing)
 
 | Topic  | Extra-Resources  |
-|---|---|---|
+|---|---|
 | [00-Preview](https://github.com/henchc/textxd-2017/blob/master/00-Preview.ipynb) | [[1]](https://github.com/henchc/Rediscovering-Text-as-Data/blob/master/09-Topic-Modeling/01-Topic-Modeling.ipynb)
 | [01-Python-Jupyter](https://github.com/henchc/textxd-2017/blob/master/01-Python-Jupyter.ipynb)   | [[1]](https://github.com/ds-modules/EPS-C20/blob/master/01-EWT/01-EWT.ipynb)  |
 | [02-Strings](https://github.com/henchc/textxd-2017/blob/master/02-Strings.ipynb)  | [[1]](https://github.com/ds-modules/core-resources/blob/master/intro/intro-strings.ipynb)[[2]](https://github.com/dlab-berkeley/python-fundamentals/blob/master/Day_1/05_Strings.ipynb)[[3]](https://github.com/henchc/Rediscovering-Text-as-Data/blob/master/03-Close-Reading-I/01-Strings.ipynb)   |
